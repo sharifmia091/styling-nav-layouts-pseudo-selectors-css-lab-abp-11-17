@@ -28,7 +28,7 @@ nav ul li {
 nav a {
   text-decoration: none;
   color: #007bff;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 #header a{
@@ -71,5 +71,5 @@ nav a:hover{
 
 h3#header a:hover{
   text-decoration: underline;
-
+  
 }
