@@ -76,5 +76,11 @@ h3#header a:hover{
 
 
 .questions h4{
-  padding: 0 20px 0 20px
+  padding: 0 20px 0 20px;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.question p{
+  margin-top: 30px;
 }
