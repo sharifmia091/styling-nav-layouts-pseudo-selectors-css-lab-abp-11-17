@@ -34,6 +34,7 @@ nav a {
 #header a{
   text-decoration: none;
   color: #868e96;
+  font-size: 28px;
 }
 
 main{
@@ -71,5 +72,5 @@ nav a:hover{
 
 h3#header a:hover{
   text-decoration: underline;
-  
+
 }
