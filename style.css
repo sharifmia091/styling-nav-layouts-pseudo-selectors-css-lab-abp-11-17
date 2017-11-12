@@ -73,3 +73,8 @@ nav a:hover{
 h3#header a:hover{
   text-decoration: underline;
 }
+
+
+.questions h4{
+  padding: 0 20px 0 20px
+}
